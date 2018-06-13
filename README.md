@@ -14,3 +14,6 @@ Emscripten SDK - download and install instructions http://kripken.github.io/emsc
 
 web server of choice - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
+## Built With
+
+* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D/) - Chipmunk2D is a simple, lightweight, fast and portable 2D rigid body physics library written in C
